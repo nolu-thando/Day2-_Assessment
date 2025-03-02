@@ -36,8 +36,32 @@ Private Repository disadvantages and advantages:
 - Limits collaboration
 - Hinders community contibutions
 
-Question 5
+Question 5:
 Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+- Create a repository
+- Clone into the repository
+- Create a branch or work on the main branch and make changes
+- Make your first commit
+
+Commits are snapshots of your code at certain times. They help in telling you about the history of your repository. It tells you are story of how your code or project
+came to the way it looks like. It also helps you to see the changes you made to the project.
+
+Question 6:
+How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow
+Branching works in a good way because it helps a team work on different branches without messing up or disturbing the main branch. When a repository is created, all steps are followed then the team will create different branches where each team member will do their part of the project, while commiting and pushing their changes and commits to their branches. 
+When they are done with their prts of the project to the main branch, the appointed team member who is supposed to merge changes, will then merge the changes from the other branches.
+When they merge, the main branch will show the duplicated files or cor code.
+
+Question 7:
+Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+The role of pull request in GitHub workflow is to pull changes from the main branch to other repository branches. They facilitate code review and colleboration by looking into the code
+and overlooking for errors or duplicates. It downloads all the changes.
+- you run a git status command
+- then run git fetch
+- then run git merge to merge all the changes from local branches
+- then run git pull to get the update version of the project.
+
+Question 8:
 
 
 

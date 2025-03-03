@@ -62,8 +62,8 @@ and overlooking for errors or duplicates. It downloads all the changes.
 - then run git pull to get the update version of the project.
 
 Question 8:
-
-
+Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+- Forking is when you create a copy of an already existing file. It also allows you to make changes and contibute to the original file without changing the codebases.
 
 
   

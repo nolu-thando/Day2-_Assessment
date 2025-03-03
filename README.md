@@ -70,7 +70,9 @@ Discuss the concept of "forking" a repository on GitHub. How does forking differ
 
 Question 9:
 Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
-- Issues and project boards are important because 
+- Issues and project boards are important because they help with project management within your repository.
+-  You can use them to create labels for a repository to categorize issues, pull requests, and discussions.
+- 
 
 Question 10:
 Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration? 

@@ -64,6 +64,14 @@ and overlooking for errors or duplicates. It downloads all the changes.
 Question 8:
 Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 - Forking is when you create a copy of an already existing file. It also allows you to make changes and contibute to the original file without changing the codebases.
+- Forking differs from cloning because it creates an independant and seperate copy of the repository on the remote server. It also allows you to make changes without affecting
+  the original project/repository.
+- Forking is useful when you want to make changes to a specific code without affecting the original project
+
+Question 9:
+Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
+
+  
 
 
   
